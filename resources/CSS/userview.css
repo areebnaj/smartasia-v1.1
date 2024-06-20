@@ -1,0 +1,35 @@
+
+.aboutSection {
+    margin-top: 80px;
+}
+
+.aboutSection h1{
+    font-size: 20px;
+}
+
+.aboutSection h4 {
+    letter-spacing: 2px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.aboutSection img{
+    width: 120px;
+    height: auto;
+}
+
+.numberBoxes label {
+    font-size: 48px;
+}
+
+.numberBoxes p {
+    font-size: 17px;
+    padding-top: 15px;
+    line-height: 24px;
+    letter-spacing: 2px;
+}
+
+.numberboxParaDiv {
+    margin-top: -18px;
+    padding-left: 12px;
+    color: #6c757d;
+}
